@@ -6,3 +6,10 @@
 .text-white{
     color: #f7f7f7;
 }
+
+.sports-logo{
+    position: fixed; 
+    right: 0; 
+    top: 0; 
+    width:40px;
+}
